@@ -5,7 +5,7 @@ public class Spiel extends Ware {
         VIDEO,BRETT,KARTE
     }
 
-    public Spiel(String filialenname, double preis, int artikelnummer, String name, short altersfreigabe, String hersteller) {
-        super(filialenname, preis, artikelnummer, name, altersfreigabe, hersteller);
+    public Spiel(double preis, int artikelnummer, String name, short altersfreigabe, String hersteller) {
+        super(preis, artikelnummer, name, altersfreigabe, hersteller);
     }
 }

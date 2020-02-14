@@ -1,9 +1,9 @@
 package de.ostfalia.practice.id568441;
 
-public class supermarkt {
+public class Supermarkt {
     private String filialenname;
 
-    public supermarkt(String filialenname) {
+    public Supermarkt(String filialenname) {
         this.filialenname = filialenname;
     }
 

@@ -4,10 +4,10 @@ public class Lebensmittel extends Ware {
     private int kalorien;
     private double gewicht;
 
-    public Lebensmittel(String filialenname, double preis, int artikelnummer,
+    public Lebensmittel(double preis, int artikelnummer,
                         String name, short altersfreigabe, String hersteller,
                         int kalorien, double gewicht) {
-        super(filialenname, preis, artikelnummer, name, altersfreigabe, hersteller);
+        super(preis, artikelnummer, name, altersfreigabe, hersteller);
         this.kalorien = kalorien;
         this.gewicht = gewicht;
     }

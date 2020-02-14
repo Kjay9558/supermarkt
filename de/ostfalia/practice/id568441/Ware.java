@@ -1,14 +1,13 @@
 package de.ostfalia.practice.id568441;
 
-public abstract class Ware extends supermarkt {
+public abstract class Ware {
     private double preis;
     private int artikelnummer;
     private String name;
     private short altersfreigabe;
     private String hersteller;
 
-    public Ware(String filialenname, double preis, int artikelnummer, String name, short altersfreigabe, String hersteller) {
-        super(filialenname);
+    public Ware(double preis, int artikelnummer, String name, short altersfreigabe, String hersteller) {
         this.preis = preis;
         this.artikelnummer = artikelnummer;
         this.name = name;
@@ -58,8 +57,7 @@ public abstract class Ware extends supermarkt {
 
     @Override
     public String toString() {
-        return super.toString() +
-                "Ware{" +
+        return  "Ware{" +
                 "preis=" + preis +
                 ", artikelnummer=" + artikelnummer +
                 ", name='" + name + '\'' +

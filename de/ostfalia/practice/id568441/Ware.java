@@ -16,7 +16,6 @@ public abstract class Ware extends supermarkt {
         this.hersteller = hersteller;
     }
 
-
     public double getPreis() {
         return preis;
     }

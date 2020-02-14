@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="69ce3b28-5147-46a3-83ef-ab72ebab9ed2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/de/ostfalia/practice/id568441/tests/WareTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/de/ostfalia/practice/id568441/Ware.java" beforeDir="false" afterPath="$PROJECT_DIR$/de/ostfalia/practice/id568441/Ware.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="methoden" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1XnOMEUV9R9kaC7iUNyJ8opaDva" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="de.ostfalia.practice.id568441.tests" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kjay9\IdeaProjects\supermarkt" />
+      <recent name="C:\Users\kjay9\IdeaProjects\supermarkt\de\ostfalia\practice\id568441" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69ce3b28-5147-46a3-83ef-ab72ebab9ed2" name="Default Changelist" comment="" />
+      <created>1581678341458</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581678341458</updated>
+    </task>
+    <task id="LOCAL-00001" summary="added .gitignore">
+      <created>1581678442767</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581678442767</updated>
+    </task>
+    <task id="LOCAL-00002" summary="supermarkt added filialenname&#10;minor fixes in Ware toString(), Constructor">
+      <created>1581679239632</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581679239632</updated>
+    </task>
+    <task id="LOCAL-00003" summary="moved README.md to main file">
+      <created>1581679407567</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581679407567</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added workspace.xml">
+      <created>1581679533198</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1581679533198</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added workspace.xml">
+      <created>1581679598241</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1581679598241</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="methoden" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="methoden" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added .gitignore" />
+    <MESSAGE value="supermarkt added filialenname&#10;minor fixes in Ware toString()" />
+    <MESSAGE value="supermarkt added filialenname&#10;minor fixes in Ware toString(), Constructor" />
+    <MESSAGE value="moved README.md to main file" />
+    <MESSAGE value="added workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="added workspace.xml" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="490" y="152" key="#com.intellij.ide.util.MemberChooser" timestamp="1581679162733">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="490" y="152" key="#com.intellij.ide.util.MemberChooser/0.0.1368.872@0.0.1368.872" timestamp="1581679162733" />
+    <state x="416" y="213" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1581682488806">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="416" y="213" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1368.872@0.0.1368.872" timestamp="1581682488806" />
+    <state x="455" y="118" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1581679499390">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="455" y="118" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1368.872@0.0.1368.872" timestamp="1581679499390" />
+    <state x="338" y="30" key="CommitChangelistDialog2" timestamp="1581679597544">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="338" y="30" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1581679597544" />
+    <state x="93" y="93" width="1181" height="685" key="DiffContextDialog" timestamp="1581679830728">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="93" y="93" width="1181" height="685" key="DiffContextDialog/0.0.1368.872@0.0.1368.872" timestamp="1581679830728" />
+    <state x="471" y="158" key="RollbackChangesDialog" timestamp="1581679817567">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="471" y="158" key="RollbackChangesDialog/0.0.1368.872@0.0.1368.872" timestamp="1581679817567" />
+    <state x="277" y="169" key="Vcs.Push.Dialog.v2" timestamp="1581679847799">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="277" y="169" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1581679847799" />
+    <state x="407" y="329" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1581682565784">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="407" y="329" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1368.872@0.0.1368.872" timestamp="1581682565784" />
+    <state x="449" y="139" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1581682528065">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="449" y="139" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1368.872@0.0.1368.872" timestamp="1581682528065" />
+    <state x="343" y="200" key="run.anything.popup" timestamp="1581679031228">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="343" y="200" key="run.anything.popup/0.0.1368.872@0.0.1368.872" timestamp="1581679031228" />
+  </component>
+</project>

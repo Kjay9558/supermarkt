@@ -1,5 +1,7 @@
 package de.ostfalia.practice.id568441;
 
+import java.util.ArrayList;
+
 public abstract class Ware {
     private double preis;
     private int artikelnummer;
@@ -64,5 +66,14 @@ public abstract class Ware {
                 ", altersfreigabe=" + altersfreigabe +
                 ", hersteller='" + hersteller + '\'' +
                 '}';
+    }
+    
+    public String displayWaren(Supermarkt s) {
+        //method returns a String containing all Waren-Names of Supermarkt s
+        String str = "";
+        for (int i = 0; i < s.getWaren().size(); i++) {
+        str = str + s.getWare(i).getName() + ", ";           
+        }
+        return str;
     }
 }

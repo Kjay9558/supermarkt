@@ -25,4 +25,12 @@ public class Supermarkt {
       public void setWaren(ArrayList<Ware> waren) {
         this.waren = waren;
     }
+
+    public void addWare(Ware w){
+        waren.add(w);
+    }
+
+    public Ware getWare(int i){
+        return waren.get(i);
+    }
 }

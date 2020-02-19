@@ -1,7 +1,5 @@
 package de.ostfalia.practice.id568441;
 
-import java.util.ArrayList;
-
 public abstract class Ware {
     private double preis;
     private int artikelnummer;
